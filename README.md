@@ -2,6 +2,7 @@
 Owned by Emerald Sol
 
 ![Image](Netflix.jpg)
+![Netflix](https://user-images.githubusercontent.com/102720765/167878443-90d85c9e-ccb5-4515-9a09-7081a0002325.jpg)
 
 Netflix is a video streaming service that allows you to watch the TV shows and movies you want. It has 200 million subcribers worldwide. It was launched on August 29, 1997 by Reed Hastings and Marc Randolph.
 
