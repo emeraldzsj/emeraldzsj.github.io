@@ -31,7 +31,8 @@ Netflix is a video streaming service that allows you to watch the TV shows, movi
 
 You can create a maximum of 4 accounts on netflix. You can also choose the profile of your account and even add a profile lock if you want some privacy. You can also add a parental control to your child's account to make sure they're watching appropriate for their age. 
 
-***Hope you enjoy watching in netflix with your  family, friends and your special someone.***
-
 Here is an example of what our profile looks like on netflix:
+
 ![PT IN COMPUTER](https://user-images.githubusercontent.com/102720765/167887669-e602b913-de14-48d2-85d5-a87036408867.JPG)
+
+***Hope you enjoy watching in netflix with your  family, friends and your special someone.***
