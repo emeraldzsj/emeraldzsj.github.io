@@ -24,7 +24,7 @@ Netflix is a video streaming service that allows you to watch the TV shows, movi
 
 ### How to subscribe on Netflix?
 
-***There ar efour types of plans: Mobile, Basic, Standard, and Premium***
+***There are four types of plans: Mobile, Basic, Standard, and Premium***
 ![PT IN COMPUTER](https://user-images.githubusercontent.com/102720765/167886262-5cc23c00-2558-442c-a014-8626620936ca.JPG)
 
 ### How to create account/s on Netflix?
