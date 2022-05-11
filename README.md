@@ -7,7 +7,21 @@ Netflix is a video streaming service that allows you to watch the TV shows, movi
 
 ### What do I watch on Netflix?
 
-I love to watch kdramas, movies and Tv shows so here are some of my favorites:
+***Movies***
+- Annie (2014)
+- Jingle Jangle: A Christmas Journey (2020)
+- MonteCarlo (2011)
+
+***K-dramas***
+- Crash Landing On You (2019)
+- Vincenzo (2021)
+- Hometown Cha-Cha-Cha (2021)
+
+***Tv-Shows***
+- Baking Impossible (2021)
+- School of Chocolate (2021)
+- The Umbrella Academy (2020)
+
 
 
 
