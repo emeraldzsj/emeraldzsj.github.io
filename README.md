@@ -3,9 +3,13 @@ Owned by Emerald Sol
 
 ![Netflix](https://user-images.githubusercontent.com/102720765/167878443-90d85c9e-ccb5-4515-9a09-7081a0002325.jpg)
 
-Netflix is a video streaming service that allows you to watch the TV shows and movies you want. It has 200 million subcribers worldwide. It was launched on August 29, 1997 by Reed Hastings and Marc Randolph.
+Netflix is a video streaming service that allows you to watch the TV shows, movies, documentaries with a wide variety of genres and languages anytime and anywhere you want. It has 208 million paid memberships in over 190 countries. It was launched on August 29, 1997 by Reed Hastings and Marc Randolph.
 
-### Markdown
+### What do I watch on Netflix?
+
+I love to watch kdramas, movies and Tv shows so here are some of my favorites:
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
