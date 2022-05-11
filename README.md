@@ -1,7 +1,7 @@
-## Welcome to GitHub Pages
+## What is Netflix?
 Owned by Emerald Sol
 
-You can use the [editor on GitHub](https://github.com/emeraldzsj/emeraldzsj.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![alt text](Netflix.jpg)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
