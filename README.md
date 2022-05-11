@@ -1,9 +1,9 @@
 ## What is Netflix?
 Owned by Emerald Sol
 
-![Netflix](Netflix.jpg)
+![Image](Netflix.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Netflix is a video streaming service that allows you to watch the TV shows and movies you want. It has 200 million subcribers worldwide. It was launched on August 29, 1997 by Reed Hastings and Marc Randolph.
 
 ### Markdown
 
